@@ -1,5 +1,5 @@
 
-<strong><h1 align="center">Olá!! Eu sou Arthur Karnas 👋</h1></strong>
+<strong><h1 align="center">Olá!! Eu sou Arthur Karnas ✌️</h1></strong>
 
 ![Karnas' GitHub stats](https://github-readme-stats.vercel.app/api?username=Karnas01&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karnas01&layout=compact&theme=tokyonight)
